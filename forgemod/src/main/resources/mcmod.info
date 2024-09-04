@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ntmtool",
+  "name": "Modding's NTM Tool",
+  "description": "Tool mod to add/remove NTM hazards/protection to other items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/moddingforreal/moddings-ntm-hazard-tool",
+  "updateUrl": "",
+  "authorList": ["moddingforreal"],
+  "credits": "iristhepianist for requesting the mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
